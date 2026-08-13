@@ -276,11 +276,22 @@ The isolated laboratory environment should be used as the primary environment fo
 
 These resources should be obtained from their official websites to ensure that the software is downloaded from trusted sources.
 
+
+
+# 🔗 Annexure
+
+
+
 Aurthor: Ritesh Kukrolia
+
 Aurthor LinkedIn Prfile: https://linkedin.com/in/ritesh-kukrolia
+
 Instructor/ Mentor: Waqas Karim
+
 Instructor LinkedIn Profile: https://linkedin.com/in/waqaskarim/
+
 Internship Firm: Network Walks
+
 Internship Duration: 1 Month
 
 
